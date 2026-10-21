@@ -1,4 +1,4 @@
-# 🎵 Taskbar Spectrum
+# Taskbar Spectrum
 
 Visualizador de espectro de audio para la **barra de tareas de Windows**, al estilo de [Cava](https://github.com/karlstav/cava) en Linux.
 
