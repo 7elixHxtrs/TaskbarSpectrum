@@ -5,6 +5,8 @@ Visualizador de espectro de audio para la **barra de tareas de Windows**, al est
 Captura lo que suena en tu PC (Spotify, YouTube, juegos, lo que sea) y dibuja barras animadas sobre tu barra de tareas, justo al lado de la bandeja del sistema.
 
 > by: [7elixHxtrs](https://github.com/7elixHxtrs)
+<img width="468" height="32" alt="imagen" src="https://github.com/user-attachments/assets/cafcc153-2cb3-4aeb-90da-abe1df46a548" />
+
 
 ---
 
